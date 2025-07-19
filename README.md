@@ -60,8 +60,4 @@ Extracted heart rate from noisy ECG using Butterworth filters and R-peak detecti
 
 -  Email: [sneha24093@iiitd.ac.in](mailto:sneha24093@iiitd.ac.in)  
 -  [LinkedIn](https://www.linkedin.com/in/sneha-nandi-4b927b198)   
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandiriya&show_icons=true&theme=radical" alt="Sneha's GitHub stats" />
-</p>
