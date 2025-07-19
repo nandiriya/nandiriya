@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sneha Nandi </h1>
 <p align="center">
-  <em>M.Tech CSE @ IIIT Delhi | CSE Enthusiast | GATE 2024 Qualified</em>
+  <em>M.Tech CSE @ IIIT Delhi | CS Enthusiast | GATE 2024 Qualified</em>
 </p>
 
 ---
