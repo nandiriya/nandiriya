@@ -9,9 +9,9 @@
 
 - Pursuing M.Tech in Computer Science from IIIT Delhi (2024–Present)
 - B.Tech in CSE from Techno India University, CGPA 8.92
-- Passionate about Machine Learning, AI, Signal Processing, and Scalable System Design
+- Passionate about Machine Learning, AI, Web Development, and Scalable System Design
 - GATE 2024 – 94.59 Percentile | PGCAT Qualified
-- Currently a Teaching Assistant for DSA & Operating Systems at IIITD
+- Worked as a Teaching Assistant for DSA & Operating Systems at IIITD
 
 ---
 
